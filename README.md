@@ -2,6 +2,10 @@
 ### The-Hindu-Paper-Downloader
 A simple Tool to Download daily news paper of 'The Hindu'. This project is dedicated to the all Civils Aspirants.
 
+### Download
+Still haven't downloaded?
+Download the latest version today at our website [thecivilhelper.uphero.com](http://thecivilhelper.uphero.com/)
+
 ### Privacy Poilicy
 The Hindu Paper Downloader is not is not affiliated to 'The Hindu'. All the papers are taken from funtasticfacts.com.
 We sincerly thank Sital Sharma and Shashi Thakur for their work.
