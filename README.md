@@ -8,7 +8,7 @@ Download the latest version today at our website [thecivilhelper.uphero.com](htt
 
 ### Privacy Poilicy
 The Hindu Paper Downloader is not is not affiliated to 'The Hindu'. All the papers are taken from funtasticfacts.com.
-We sincerly thank Sital Sharma and Shashi Thakur for their work.
+We sincerely thank Sital Sharma and Shashi Thakur for their work.
 
 ## License
 The Hindu Paper Downloader is a free software: you can redistribute it
